@@ -5,7 +5,7 @@
 * 3/4 cup water
 * 1 box Zatarain's jambalaya rice mix
 * 1 can veggies or 1 bag frozen veggies (frozen soup mix works well)
-* 1 pound pre-cooked chicken, smoked sausage, etc.
+* 1 pound pre-cooked chicken, smoked sausage, etc. (diced)
 * Shredded cheddar (topping)
 
 # Instructions 
