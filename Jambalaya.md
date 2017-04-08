@@ -4,7 +4,7 @@
 * 1/2 cup white rice
 * 3/4 cup water
 * 1 box Zatarain's jambalaya rice mix
-* 1 can veggies or 1 bag frozen veggies (frozen soup mix works well)
+* 1 bag [frozen](https://www.birdseye.com/vegetable-products/vegetable-products/birdseye/recipe-ready/chopped-seasoning-blend)  [vegetables](https://www.birdseye.com/vegetable-products/freshlike-pure-simple/soup-vegetables)
 * 1 pound pre-cooked chicken (diced), smoked sausage (sliced), etc.
 * Shredded cheddar (topping)
 
