@@ -17,4 +17,6 @@
 
 # Instructions
 
-Thoroughly combine the seasoning mix ingredients. Slow cooker. Add 1 cup of water. or maybe some broth. 
+Thoroughly combine the seasoning mix ingredients. Place all ingredients except the roast in a large skillet. Sautee over high heat for about 4 minutes. 
+
+Place roast in slow cooker with 1 cup water or broth. Cut several deep slits in roast, and then rub in seasoning. Cook high for 4-5 hours, low for 7-8.
