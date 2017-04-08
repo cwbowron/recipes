@@ -1,4 +1,4 @@
 # Recipes
 
 ## Slow Cooker
-* [Cajun Pork Loin](Cajun Pork Loin.md)
+* [Cajun Pork Loin](Cajun_Pork_Loin.md)
