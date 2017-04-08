@@ -1,4 +1,4 @@
- # Ingredients
+## Ingredients
 
  * Seasoning Mix:
    * 2 teaspoon black pepper
@@ -15,7 +15,7 @@
 * 1 tablespoon minced garlic
 * 4 boneless pound pork loin roast
 
-# Instructions
+## Instructions
 
 Thoroughly combine the seasoning mix ingredients. Place all ingredients except the roast in a large skillet. Sautee over high heat for about 4 minutes. 
 
