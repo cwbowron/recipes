@@ -1,4 +1,4 @@
-# Ingredients
+## Ingredients
 
 * 1 tablespoon olive oil
 * 12 oz can V8 (low sodium)
@@ -9,6 +9,6 @@
 * 1 pound pre-cooked chicken (diced), smoked sausage (sliced), etc.
 * Shredded cheddar (topping)
 
-# Instructions 
+## Instructions 
 
 Combine all ingredients except cheese in rice cooker. Cook on normal cycle. Top with cheese.
