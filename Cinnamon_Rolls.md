@@ -7,7 +7,7 @@
 
 Mix and heat slowly:
 * 1/2 cup brown sugar
-* 1/4 cup? butter
+* 1/4 stick butter
 * 1 Tablespoon light corn syrup
 
 375° for 20 minutes
