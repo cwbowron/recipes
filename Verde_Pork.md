@@ -1,6 +1,6 @@
 # Verde Shredded Pork (Slow Cooker)
 
-## Ingrededients
+## Ingredients
 * Pork shoulder roast
 * 2 small cans salsa verde
 * 1/2 can diced jalapenos
