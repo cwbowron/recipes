@@ -1,8 +1,8 @@
-* Shrimp Jambalaya (Slow Cooker)
+# Shrimp Jambalaya (Slow Cooker)
 
 ## Ingredients
 
-*12 oz. boneless, skinless chicken breast
+* 12 oz. boneless, skinless chicken breast
 * 8 oz smoked sausage
 * 8 oz smoked ham, diced
 * 1 green pepper, diced
