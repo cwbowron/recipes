@@ -4,7 +4,7 @@
 * 12 oz can V8 (low sodium)
 * 1/2 cup white rice
 * 3/4 cup water
-* 1 box Zatarain's jambalaya rice mix
+* 1 box [Zatarain's jambalaya](https://www.mccormick.com/zatarains/recipes/main-dishes/zatarains-original-jambalaya) rice mix
 * 1 bag [frozen](https://www.birdseye.com/vegetable-products/vegetable-products/birdseye/recipe-ready/chopped-seasoning-blend)  [vegetables](https://www.birdseye.com/vegetable-products/freshlike-pure-simple/soup-vegetables)
 * 1 pound pre-cooked meat
   * [Chicken](http://www.tyson.com/products/grilled-and-ready-fully-cooked-frozen-oven-roasted-diced-chicken-breast) (diced), 
