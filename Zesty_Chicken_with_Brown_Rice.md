@@ -3,7 +3,7 @@ From: https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
 #### Prep Time: 15 minutes
 #### Cook Time: 55 minutes
 
- Ingredients
+#### Ingredients
 
 * 2 Tbsp. olive oil, divided use
 * 1 cup dry brown rice
@@ -20,7 +20,7 @@ From: https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
 * 1 Tbsp. chopped fresh parsley (or 1 tsp. dried parsley)
 * ¼ tsp. crushed red pepper
 
-Instructions
+#### Instructions
 
 1. Heat _1 Tbsp._oil in large saucepan over medium heat.
 2. Add rice; cook, stirring frequently, for 1 to 2 minutes, or until rice starts to crackle.
