@@ -15,4 +15,4 @@
 
 ## Etc.
 
-* [Zesty Chicken with Brown Rice](Zesty_Chicken_with_Brown_Rice.md)
+* [Zesty Chicken with Rice](Zesty_Chicken_with_Rice.md)
