@@ -12,3 +12,7 @@
 ## Grill
 * [Bratwurst](Grilled_Bratwurst.md)
 * [Italian Sausage](Grilled_Italian_Sausage.md)
+
+## Etc.
+
+* [Zesty Chicken with Brown Rice](Zesty_Chicken_with_Brown_Rice.md)
