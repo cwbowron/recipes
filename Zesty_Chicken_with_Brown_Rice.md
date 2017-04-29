@@ -17,7 +17,7 @@ From: https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
 * 1 lb. raw chicken breasts, boneless, skinless, cut into 1-inch strips
 * 2 cloves garlic, finely chopped
 * 1 (14.5-oz.) can low-sodium diced tomatoes
-* ½ cup all-natural chili sauce
+* ½ cup all-natural chili sauce (*substitute tomato sauce*)
 * 1 Tbsp. chopped fresh basil (or 1 tsp. dried basil)
 * 1 Tbsp. chopped fresh parsley (or 1 tsp. dried parsley)
 * ¼ tsp. crushed red pepper
