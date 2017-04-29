@@ -1,4 +1,6 @@
 From: https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
+
+**Brown rice takes forever in rice cooker. Try white rice or pasta.**
  
 #### Prep Time: 15 minutes
 #### Cook Time: 55 minutes
