@@ -1,4 +1,4 @@
- https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
+From: https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
  
 #### Prep Time: 15 minutes
 #### Cook Time: 55 minutes
