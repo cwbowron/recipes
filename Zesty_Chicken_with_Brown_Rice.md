@@ -24,7 +24,7 @@ From: https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
 
 ### Instructions
 
-1. Heat _1 Tbsp._oil in large saucepan over medium heat.
+1. Heat **1 Tbsp.** oil in large saucepan over medium heat.
 2. Add rice; cook, stirring frequently, for 1 to 2 minutes, or until rice starts to crackle.
 3. Add water and salt. Bring to a boil, covered. Reduce heat; cook for about 30 to 35 minutes, or until rice is tender and fluffy.
 4. While rice is cooking, heat remaining 1 Tbsp. oil in medium nonstick skillet over medium-high heat.
