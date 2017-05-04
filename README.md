@@ -16,3 +16,8 @@
 ## Etc.
 
 * [Zesty Chicken with Rice](Zesty_Chicken_with_Rice.md)
+
+## Sweets
+
+* [Cinnamon Rolls](Cinnamon_Rolls.md)
+* [Fudge Krispies](Fudge_Krispies.md)
