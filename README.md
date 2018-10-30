@@ -8,6 +8,7 @@
 * [Pulled Park](Pulled_Pork.md)
 * [Shrimp Jambalaya](Shrimp_Jambalaya.md)
 * [Spicy Beef Roast](Spicy_Beef_Roast.md)
+* [Buffalo Chicken Dip](Buffalo_Chicken_Dip.md)
 
 ## Grill
 * [Bratwurst](Grilled_Bratwurst.md)
