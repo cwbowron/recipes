@@ -1,3 +1,8 @@
+---
+title: Buffalo Chicken Dip
+layout: default
+tags: [slow cooker, Jeff]
+---
 *From Jeff*
 
 **Ingredients**
