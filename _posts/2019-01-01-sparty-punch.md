@@ -1,7 +1,7 @@
 ---
 title: Sparty Punch
 layout: default
-tags: [booze]
+tags: [booze, punch]
 ---
 # Sparty Punch
 
