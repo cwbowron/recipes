@@ -1,3 +1,8 @@
+---
+title: Sparty Punch
+layout: default
+tags: [booze]
+---
 # Sparty Punch
 
 ## Ingredients:
