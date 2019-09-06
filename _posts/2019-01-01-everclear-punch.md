@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: [booze]
+tags: [booze, punch]
 title: Everclear Punch
 ---
 # Everclear Punch
