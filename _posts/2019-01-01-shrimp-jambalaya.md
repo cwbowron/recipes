@@ -1,3 +1,8 @@
+---
+title: Shrimp Jambalaya
+layout: default
+tags: [slow cooker, rice, shrimp]
+---
 # Shrimp Jambalaya (Slow Cooker)
 
 ## Ingredients
