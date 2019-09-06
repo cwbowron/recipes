@@ -1,3 +1,8 @@
+---
+title: Mexi-Cali Soup
+layout: default
+tags: [slow cooker, mom]
+---
 # Mexi-Cali Soup
 
 ## Ingredients
