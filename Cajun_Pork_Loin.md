@@ -1,3 +1,8 @@
+---
+title: Cajun Pork Loin
+layout: default
+tags: [cajun, pork, Dad]
+---
 ## Ingredients
 
  * Seasoning Mix:
