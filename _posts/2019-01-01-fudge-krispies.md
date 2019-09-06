@@ -1,3 +1,8 @@
+---
+title: Fudge Krispies
+layout: default
+tags: [dessert, sweet]
+---
 # Fudge Krispies
 
 ## Ingredients
