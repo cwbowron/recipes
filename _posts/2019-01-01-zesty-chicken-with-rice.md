@@ -1,3 +1,8 @@
+---
+title: Zesty Chicken with Rice
+layout: default
+tags: [chicken, rice]
+---
 From: https://www.beachbodyondemand.com/blog/zesty-chicken-with-brown-rice
 
 **Brown rice takes forever in rice cooker. Try white rice or pasta.**
