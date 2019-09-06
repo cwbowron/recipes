@@ -1,3 +1,8 @@
+---
+title: Pulled Pork
+layout: default
+tags: [slow cooker, pork]
+---
 # Pulled Pork (Crock Pot)
 
 ## Ingredients
