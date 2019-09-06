@@ -1,3 +1,8 @@
+---
+title: Bowery Veggies
+layout: default
+tags: [veggies, side dish, Deb]
+---
 # Bowery Veggies
 
 ## Ingredients
