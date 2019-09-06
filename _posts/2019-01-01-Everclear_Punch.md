@@ -1,3 +1,7 @@
+---
+template: default
+tags: [booze]
+---
 # Everclear Punch
 
 * 3 parts Hawaiian Punch
