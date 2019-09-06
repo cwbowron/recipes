@@ -1,3 +1,8 @@
+---
+title: Cinnamon Rolls
+layout: default
+tags: [sweet, mom]
+---
 # Cinnamon Rolls (Caramel Rolls)
 
 1. Roll Dough
