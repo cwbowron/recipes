@@ -1,3 +1,8 @@
+---
+title: Spicy Beef Roast
+layout: default
+tags: [slow cooker, beef]
+---
 # Spicy Beef Roast 
 
 ## Ingredients
