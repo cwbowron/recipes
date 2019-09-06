@@ -1,3 +1,8 @@
+---
+title: Chunky Chili
+layout: default
+tags: [slow cooker, chili, soup, beef]
+---
 # Chunky Chili (Slow Cooker)
 
 ## Ingredients
