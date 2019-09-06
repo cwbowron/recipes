@@ -1,3 +1,8 @@
+---
+title: Windex Slush Punch
+layout: default
+tags: [booze, punch]
+---
 # Windex Slush Punch 
 *(Yield: 1 gallon)*
 
