@@ -1,3 +1,8 @@
+---
+title: Grilled Italian Sausage
+layout: default
+tags: [grill, sausage]
+---
 # Grilled Italian Sausage with Sweet and Sour Peppers and Onions
 
 ## Ingredients
