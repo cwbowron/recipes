@@ -1,6 +1,7 @@
 ---
-template: default
+layout: default
 tags: [booze]
+title: Everclear Punch
 ---
 # Everclear Punch
 
