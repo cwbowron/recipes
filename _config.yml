@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 
 url: "http://bowron.us/recipes"
+baseurl: /recipes
