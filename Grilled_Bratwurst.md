@@ -1,3 +1,8 @@
+---
+title: Grilled Bratwurst
+layout: default
+tags: [grill]
+---
 # Grilled Bratwurst with Beer, Mustard, and Sauerkraut
 
 ## Ingredients
