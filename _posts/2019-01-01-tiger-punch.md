@@ -1,3 +1,8 @@
+---
+title: Tiger Punch
+layout: default
+tags: [booze, punch]
+---
 # Tiger Punch
 
 * 2 x Orange juice from concentrate
