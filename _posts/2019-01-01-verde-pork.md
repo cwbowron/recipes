@@ -1,3 +1,8 @@
+---
+title: Verde Shredded Pork
+layout: default
+tags: [slow cooker, pork]
+---
 # Verde Shredded Pork (Slow Cooker)
 
 ## Ingredients
