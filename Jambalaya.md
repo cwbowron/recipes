@@ -1,3 +1,8 @@
+---
+title: Jambalaya
+layout: default
+tags: [rice cooker, cajun]
+---
 ## Ingredients
 
 * 1 tablespoon olive oil
