@@ -1,7 +1,7 @@
 ---
 title: Shrimp Jambalaya
 layout: default
-tags: [slow cooker, rice, shrimp]
+tags: [slow cooker, rice, shrimp, cajun]
 ---
 # Shrimp Jambalaya (Slow Cooker)
 
