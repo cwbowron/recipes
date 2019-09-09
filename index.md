@@ -2,7 +2,8 @@
 
 <div class="tags">
 
-{% for tag in site.tags %}
+{% assign sorted_tags = (site.tags | sort:0) %}
+{% for tag in sorted_tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
