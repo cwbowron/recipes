@@ -7,7 +7,7 @@ tags: [rice cooker, cajun]
 
 * 1 tablespoon olive oil
 * 12 oz can V8 (low sodium)
-* 1/2 cup white rice
+* 1/2 cup white rice (or quinoa)
 * 3/4 cup water
 * 1 box [Zatarain's jambalaya](https://www.mccormick.com/zatarains/recipes/main-dishes/zatarains-original-jambalaya) rice mix
 * 1 bag [frozen](https://www.birdseye.com/vegetable-products/vegetable-products/birdseye/recipe-ready/chopped-seasoning-blend)  [vegetables](https://www.birdseye.com/vegetable-products/freshlike-pure-simple/soup-vegetables)
